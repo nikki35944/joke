@@ -1,0 +1,15 @@
+.gif-image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    display: none;
+    pointer-events: none;
+}
+.gif-one {
+    width: 150px;
+    height: 150px;
+}
+.gif-three {
+    width: 250px;
+    height: 150px;
+}
